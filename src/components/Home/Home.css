@@ -1,0 +1,10 @@
+.home-container {
+    width: 90%;
+    /* border: 1px solid green; */
+}
+
+.home-content {
+    width: 100%;
+    overflow: auto;
+    word-wrap: break-word;
+}
