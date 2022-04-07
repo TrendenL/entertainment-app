@@ -1,0 +1,16 @@
+.search {
+    margin-top: 60px;
+    display: flex;
+    gap: 20px;
+}
+
+.search input {
+    background: none;
+    border: none;
+    width: 30%;
+    font-size: 24px;
+}
+
+.search input:focus {
+    outline: none;
+}
